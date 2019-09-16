@@ -1,3 +1,4 @@
-const root = document.createElement("div")
-root.innerHTML = `<p>Ok up and running :)</p>`
-document.body.appendChild(root)
+import './assets/styles/main.scss';
+import example from './components/example'
+
+document.body.append(example())
