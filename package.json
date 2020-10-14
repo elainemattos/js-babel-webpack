@@ -17,11 +17,15 @@
     "@babel/preset-env": "^7.6.0",
     "babel-loader": "^8.0.6",
     "css-loader": "^0.28.11",
-    "node-sass": "^4.8.3",
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "node-sass": "^4.14.1",
     "sass-loader": "^6.0.7",
     "style-loader": "^0.20.3",
     "webpack": "^4.40.2",
     "webpack-cli": "^3.3.8",
-    "webpack-dev-server": "^3.8.0"
-  }
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {}
 }
